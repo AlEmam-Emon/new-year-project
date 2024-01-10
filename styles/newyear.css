@@ -1,0 +1,79 @@
+/* header section */
+.header {
+    background-image: url(../images/Banner\ Image.png), linear-gradient(180deg, rgb(7, 0, 0), rgb(57, 51, 51));
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 1320px;
+    height: 600px;
+    border-radius: 15px;
+    margin-left: 177px;
+
+
+}
+
+.header-content {
+    color: white;
+    text-align: center;
+    padding: 150px 450px 20px 450px;
+
+}
+
+.headerh2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.headerh1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 900;
+}
+/* main section starts */
+.section1 {
+    align-items: center;
+    margin-top: 120px;
+    margin-left: 399px;
+    margin-right: 399px;
+}
+
+#o1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+#o2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+#o3 {
+    margin-top: 5px;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.newyear-pic {
+    margin-top: 48px;
+    width: 802px;
+    height: 500px;
+
+}
