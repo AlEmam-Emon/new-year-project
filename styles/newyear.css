@@ -226,8 +226,6 @@ a {
     height: 463px;
     border-radius: 463px;
     border: 15px #f00 solid;
-    /* display: flex;
-    align-items: center; */
 
 }
 
@@ -238,7 +236,7 @@ a {
 
 .section4 {
     margin-top: 120px;
-    margin-left: 100px;
+    margin-left: 177px;
     margin-right: 140px;
     width: 1320px;
     height: 482px;
@@ -288,7 +286,7 @@ a {
 
 .section5 {
     margin-top: 120px;
-    margin-left: 100px;
+    margin-left: 177px;
     margin-right: 140px;
     background-image: url('../images/Rectangle\ 2.png'), url('../images/Rectangle\ 1.png');
     /* ,url('../images/Rectangle\ 1.png') */
@@ -333,7 +331,7 @@ a {
 .section6 {
     width: 1320px;
     margin-top: 120px;
-    margin-left: 100px;
+    margin-left: 177px;
     margin-right: 140px;
 }
 
@@ -367,7 +365,7 @@ a {
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     margin-top: 120px;
-    margin-left: 130px;
+    margin-left: 177px;
     margin-right: 140px;
     width: 1320px;
     height: 620px;
@@ -411,7 +409,7 @@ a {
 
 }
 
-section7-part2 p {
+.section7-part2 p {
     max-width: 890px;
     color: #07021199;
     text-align: center;
